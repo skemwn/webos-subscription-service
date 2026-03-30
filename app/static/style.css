@@ -107,6 +107,9 @@ tr.selected {
     border-radius: 999px;
     font-size: 12px;
     font-weight: 700;
+    background: #f1f5f9;
+    color: #475569;
+    border: 1px solid #d1d5db;
 }
 
 .status-active,
