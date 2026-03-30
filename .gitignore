@@ -10,6 +10,7 @@ build/
 .idea/
 .vscode/
 *.zip
+.DS_Store
 KakaoTalk_*.jpg
 KakaoTalk_*.jpeg
 26_DevOps_실습_오리엔테이션.pdf
